@@ -1,5 +1,10 @@
 # 💫 About Me:
--🧑‍💻 Full-Stack (MERN) Developer from New Delhi, India 🇮🇳.<br>-🧩 I’m currently learning advanced React patterns and performance optimization.  <br>-🎗️ Skilled in **React, Tailwind CSS, JavaScript, MongoDB, Node.js**.  <br>-✨ Building **responsive UIs** and **full-stack MERN apps**.  <br>-🔍 Exploring **UI/UX design, animations, and production-grade deployment** . <br>-💡 Open to **internships, collaborations, and real-world projects**. 
+- 🧑‍💻 Full-Stack (MERN) Developer from New Delhi, India 🇮🇳.
+- 🧩 I’m currently learning advanced React patterns and performance optimization.
+- 🎗️ Skilled in **React, Tailwind CSS, JavaScript, MongoDB, Node.js**.
+- ✨ Building **responsive UIs** and **full-stack MERN apps**.
+- 🔍 Exploring **UI/UX design, animations, and production-grade deployment**.
+- 💡 Open to **internships, collaborations, and real-world projects**. 
 
 
 ## 🌐 Socials:
